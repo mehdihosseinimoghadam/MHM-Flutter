@@ -15,7 +15,7 @@ Introduction Screen allows you to have a screen on an app's first launch to, for
   animated_text_kit: ^4.2.2
 ```
 
-<img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" > For Video Tutorial on this app click on [this Link](https://www.youtube.com/watch?v=ctykcX6tC1A)
+<img src="https://github.com/mehdihosseinimoghadam/MHM-Flutter-UI-UX-Tutorial/blob/main/Flutter%202Pac%20Music%20Playlist%20(just_audio)/Purple%20and%20Orange%20Finance%20Sales%20Presentation%20(9).png" height="40" width="50" > For Video Tutorial on this app click on [this Link](https://www.youtube.com/watch?v=ctykcX6tC1A)
 
 
 ## Follow me & Buy me a Cofee:
